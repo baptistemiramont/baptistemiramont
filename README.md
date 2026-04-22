@@ -1,6 +1,6 @@
 # **Hi, welcome 👋**
 
 Nice to meet you !
-I'm Baptiste, a French developer who is passionate about coding and exploring new technologies.
+I'm Baptiste, a French full-stack developer passionate about building concrete, meaningful products, from back-end APIs to polished interfaces.
 
-Currently, I am focused on honing my skills in front-end development. However, I also have a keen interest in back-end development and programming in general.
+Currently working as lead developer & manager at Adonis (Toulouse), where I drive technical decisions and team coordination. Always learning, always shipping !
