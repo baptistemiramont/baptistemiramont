@@ -1,6 +1,6 @@
 # **Hi, welcome 👋**
 
 Nice to meet you !
-I'm Baptiste, a French full-stack developer passionate about building concrete, meaningful products, from back-end APIs to polished interfaces.
+I'm Baptiste, a French full-stack tech lead who enjoys building concrete, meaningful products, from back-end APIs to polished interfaces.
 
-Currently working as lead developer & manager at Adonis (Toulouse), where I drive technical decisions and team coordination. Always learning, always shipping !
+I currently head IT & engineering at Groupe Adonis (Toulouse) and lead NSICA, a multi-tenant SaaS for schools and training organizations: architecture, team, and daily production releases. Always learning, always shipping !
